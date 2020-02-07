@@ -1,0 +1,12 @@
+{
+    "name": "Flashback.Editor",
+    "references": [
+        "Armor.Addons"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

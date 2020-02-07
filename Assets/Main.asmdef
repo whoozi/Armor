@@ -1,0 +1,10 @@
+{
+    "name": "Armor.Main",
+    "references": [
+        "Armor.Addons"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

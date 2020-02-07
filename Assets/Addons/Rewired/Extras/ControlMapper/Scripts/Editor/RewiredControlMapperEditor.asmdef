@@ -1,0 +1,12 @@
+{
+    "name": "Rewired.ControlMapper.Editor",
+    "references": [
+        "Armor.Addons"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

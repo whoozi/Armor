@@ -1,0 +1,13 @@
+{
+    "name": "Cinemachine.Timeline.Editor",
+    "references": [
+        "Armor.Addons",
+        "Cinemachine.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
